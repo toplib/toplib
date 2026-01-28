@@ -10,7 +10,7 @@ Stupidest 15 y.o. man ever lived
 - **☕ Java**
 
 - **🐍 Python**
-- 
+
 - **🐍 C++**
 
 ---
