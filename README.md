@@ -11,7 +11,7 @@ Stupidest 15 y.o. man ever lived
 
 - **🐍 Python**
 - 
-- **🐍 Python**
+- **🐍 C++**
 
 ---
 ### **📊 GitHub Stats**
